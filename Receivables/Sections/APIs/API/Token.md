@@ -43,7 +43,7 @@ If the HTTP Status Code is 200 - OK, you will receive the following JSON respons
 }
 </pre>
 
-##### Step 4: Using the Secruity Token
+##### Step 4: Using the Security Token
 In the header for authorization, combine "Bearer" with the access token from the JSON response
 
 ```shell
